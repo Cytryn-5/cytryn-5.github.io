@@ -1,10 +1,11 @@
 1. Create local git repo
-    "git innit"
+    "git init"
 2. add files from your local project
     "git add (file name or use . to add everything)"
 3. save changes
     "git commit -m "message"
 4. add your repository
-    "git remote add origin (repository)"
+    name it by your nickname without capital letters and add github page "yournick.github.io"
+    "git remote add origin (the https comand thats gonna apear when tou ake a new repository)"
 5. push it to your repository
     "git push -u origin master"
