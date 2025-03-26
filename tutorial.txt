@@ -1,0 +1,10 @@
+1. Create local git repo
+    "git innit"
+2. add files from your local project
+    "git add (file name or use . to add everything)"
+3. save changes
+    "git commit -m "message"
+4. add your repository
+    "git remote add origin (repository)"
+5. push it to your repository
+    "git push -u origin master"
